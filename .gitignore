@@ -4,3 +4,7 @@ cmake_install.cmake
 Makefile
 code
 
+
+# Secrets
+.acmoj_token
+.env
